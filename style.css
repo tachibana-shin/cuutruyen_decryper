@@ -1,0 +1,8 @@
+body {
+  color: #fcbe24;
+  margin: 0;
+}
+
+canvas {
+  max-width: 100%;
+}
